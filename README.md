@@ -20,15 +20,13 @@
 - [dayPassed.cpp](https://github.com/wilson30139/wilson/blob/master/w06/dayPassed.cpp) - [sorting.cpp](https://github.com/wilson30139/wilson/blob/master/w06/sorting.cpp)
 ## week7
 - [rsum.cpp](https://github.com/wilson30139/wilson/blob/master/w07/rsum.cpp)
-- [sumodd.cpp]() * fib.cpp * gcd.cpp * tower.cpp
-
-
-
-
-
-
-week8 * magic.cpp
+- [sumodd.cpp](https://github.com/wilson30139/wilson/blob/master/w07/sumodd.cpp)
+- [fib.cpp](https://github.com/wilson30139/wilson/blob/master/w07/fib.cpp)
+- [gcd.cpp](https://github.com/wilson30139/wilson/blob/master/w07/gcd.cpp)
+- [tower.cpp](https://github.com/wilson30139/wilson/blob/master/w07/tower.cpp)
+## week8
+- [magic.cpp]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyOTAzNTFdfQ==
+eyJoaXN0b3J5IjpbMTA1NzM1MDA2OF19
 -->
