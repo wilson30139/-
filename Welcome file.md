@@ -1,6 +1,6 @@
 ＃歡迎來到StackEdit！
 
-嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果您想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的**文件瀏覽器**來創建新文件。
+嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*            *文件瀏覽器**來創建新文件。
 
 
 ＃文件
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzAyNDU0N119
+eyJoaXN0b3J5IjpbMzQzMzAwNTg3XX0=
 -->
