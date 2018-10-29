@@ -8,13 +8,11 @@
 - [time.cpp](https://github.com/wilson30139/wilson/blob/master/w02/time.cpp)
 ## week3
 - [leap2.cpp](https://github.com/wilson30139/wilson/blob/master/w03/leap2.cpp)
-- [time2.cpp](https://github.com/wilson30139/wilson/blob/master/w03/time2.cpp) * BMI.cpp * sum.cpp
-
-
-
-
-
-week4 * menu.cpp * menu2.cpp
+- [time2.cpp](https://github.com/wilson30139/wilson/blob/master/w03/time2.cpp)
+- [BMI.cpp](https://github.com/wilson30139/wilson/blob/master/w03/BMI.cpp)
+- [sum.cpp](https://github.com/wilson30139/wilson/blob/master/w03/sum.cpp)
+## week4
+- [menu.cpp](https://github.com/wilson30139/wilson/blob/master/w04/menu.cpp) menu2.cpp
 
 
 
@@ -35,5 +33,5 @@ week7 * rsum.cpp * sumodd.cpp * fib.cpp * gcd.cpp * tower.cpp
 week8 * magic.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTkyNjU1XX0=
+eyJoaXN0b3J5IjpbMTM2NTI3NDE2N119
 -->
