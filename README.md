@@ -17,11 +17,10 @@
 ## week5
 - [menu3.cpp](https://github.com/wilson30139/wilson/blob/master/w05/menu3.cpp)
 ## week6
-- [dayPassed.cpp]() * sorting.cpp
-
-
-
-week7 * rsum.cpp * sumodd.cpp * fib.cpp * gcd.cpp * tower.cpp
+- [dayPassed.cpp](https://github.com/wilson30139/wilson/blob/master/w06/dayPassed.cpp) - [sorting.cpp](https://github.com/wilson30139/wilson/blob/master/w06/sorting.cpp)
+## week7
+- [rsum.cpp](https://github.com/wilson30139/wilson/blob/master/w07/rsum.cpp)
+- [sumodd.cpp]() * fib.cpp * gcd.cpp * tower.cpp
 
 
 
@@ -31,5 +30,5 @@ week7 * rsum.cpp * sumodd.cpp * fib.cpp * gcd.cpp * tower.cpp
 week8 * magic.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MzM5MTkxXX0=
+eyJoaXN0b3J5IjpbLTE2NDMyOTAzNTFdfQ==
 -->
