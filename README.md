@@ -12,14 +12,12 @@
 - [BMI.cpp](https://github.com/wilson30139/wilson/blob/master/w03/BMI.cpp)
 - [sum.cpp](https://github.com/wilson30139/wilson/blob/master/w03/sum.cpp)
 ## week4
-- [menu.cpp](https://github.com/wilson30139/wilson/blob/master/w04/menu.cpp) menu2.cpp
-
-
-
-week5 * menu3.cpp
-
-
-week6 * dayPassed.cpp * sorting.cpp
+- [menu.cpp](https://github.com/wilson30139/wilson/blob/master/w04/menu.cpp) 
+- [menu2.cpp](https://github.com/wilson30139/wilson/blob/master/w04/menu2.cpp)
+## week5
+- [menu3.cpp](https://github.com/wilson30139/wilson/blob/master/w05/menu3.cpp)
+## week6
+- [dayPassed.cpp]() * sorting.cpp
 
 
 
@@ -33,5 +31,5 @@ week7 * rsum.cpp * sumodd.cpp * fib.cpp * gcd.cpp * tower.cpp
 week8 * magic.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTI3NDE2N119
+eyJoaXN0b3J5IjpbNjM2MzM5MTkxXX0=
 -->
