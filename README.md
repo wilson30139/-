@@ -1,6 +1,7 @@
 # Wilson
 ## week1
-- [welcome.cpp]()https://github.com/wilson30139/wilson/blob/master/w01/welcome.cpp * temperature.cpp * equations.cpp
+- [welcome.cpp](https://github.com/wilson30139/wilson/blob/master/w01/welcome.cpp )
+- [temperature.cpp](https://github.com/wilson30139/wilson/blob/master/w01/temperature.cpp) equations.cpp
 
 
 
@@ -37,5 +38,5 @@ week7 * rsum.cpp * sumodd.cpp * fib.cpp * gcd.cpp * tower.cpp
 week8 * magic.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NzgyMDkyXX0=
+eyJoaXN0b3J5IjpbLTE0NjI4NDg5ODldfQ==
 -->
