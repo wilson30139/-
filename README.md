@@ -25,8 +25,8 @@
 - [gcd.cpp](https://github.com/wilson30139/wilson/blob/master/w07/gcd.cpp)
 - [tower.cpp](https://github.com/wilson30139/wilson/blob/master/w07/tower.cpp)
 ## week8
-- [magic.cpp]
+- [magic.cpp](https://github.com/wilson30139/wilson/blob/master/w08/magic.cpp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzM1MDA2OF19
+eyJoaXN0b3J5IjpbLTE3MDIyODc4MzhdfQ==
 -->
